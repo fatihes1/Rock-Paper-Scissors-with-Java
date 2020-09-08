@@ -1,2 +1,4 @@
 # Rock-Paper-Scissors-with-Java
-Taş kağıt makas oyunu simülasyon kodu.
+[TR] Taş kağıt makas simülasyon oyunu  kodu.
+[EN] Rock-paper-scissors simulation game's codes.
+
